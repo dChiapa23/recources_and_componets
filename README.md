@@ -1,2 +1,7 @@
 # recources_and_componets
+
 RECURSOS Y COMPONENTES PARA FACIL ACCESO Y UTILIZACION
+
+### 01 - INPUTS
+
+#### 01 - PASSWORD - DARK MODE [x]
